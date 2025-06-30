@@ -1,7 +1,8 @@
 from ScienceDiscovery.utils import *
 import os
 
-data_dir_source = './SciAgentsDiscovery-main/embeddings'
+data_dir_source = '/content/MathSciAgent-Collab/SciAgentsDiscovery-main/embeddings/'
+
 
 
 #embeddings_name='embeddings_simple_giant_ge-large-en-v1.5.pkl'

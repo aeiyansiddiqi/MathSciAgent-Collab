@@ -1,7 +1,8 @@
 from ScienceDiscovery.utils import *
 import os
 
-data_dir_source='./embeddings/'
+data_dir_source = './SciAgentsDiscovery-main/embeddings'
+
 
 #embeddings_name='embeddings_simple_giant_ge-large-en-v1.5.pkl'
 #graph_name='large_graph_simple_giant.graphml'

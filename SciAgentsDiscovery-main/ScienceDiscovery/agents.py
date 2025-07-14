@@ -18,7 +18,7 @@ import json
 
 # Set up the Groq API credentials (endpoint URL and API key)
 GROQ_API_URL = "https://api.groq.com"
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "https://github.com/aeiyansiddiqi/MathSciAgent-Collab"
 
 # Configure the LLAMA 3 model via the Groq API within AutoGen
 llm_config = {
